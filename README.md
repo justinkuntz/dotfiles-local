@@ -67,8 +67,8 @@ Terminal stuff:
 My configuration comprises of small changes on top of thoughtbot's dotfiles.
 Also borrowed heavily from multiple sources:
 
-[christoomey](https://github.com/christoomey)  |  
-[thoughtbot/laptop](https://github.com/thoughtbot/laptop)  |  
+[christoomey](https://github.com/christoomey) 
+[thoughtbot/laptop](https://github.com/thoughtbot/laptop)  
 [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles)
 
 Thoughtbot has a great series of blog posts about dotfile configuration at their
