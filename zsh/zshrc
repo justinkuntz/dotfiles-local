@@ -1,9 +1,12 @@
 source ~/.zplug/init.zsh
+source /usr/local/share/chruby/chruby.sh
+source /usr/local/share/chruby/auto.sh
 
 zplug 'mafredri/zsh-async'
 zplug 'sindresorhus/pure'
 zplug 'zsh-users/zsh-syntax-highlighting', nice:10
 zplug 'zsh-users/zsh-completions', nice:10
+zplug 'lukechilds/zsh-nvm'
 
 zplug load
 
